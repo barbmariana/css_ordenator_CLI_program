@@ -7,4 +7,5 @@ Criar uma ferramenta para o terminal onde o desenvolvedor irá digitar a proprie
 ## Biblioteca
 Para facilitar a criação do projeto, foi utilizada a biblioteca prompt-sync
 
-## Utilização
+## Testando
+<img src="imagemTeste.png"/>
