@@ -1,0 +1,23 @@
+{
+  "name": "ordenadorcss-m5-resilia",
+  "version": "1.0.0",
+  "description": "Criando um ordenador de CSS para ser utilizado no terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbmariana/ordenadorCSS-M5-Resilia.git"
+  },
+  "author": "Mariana Barbosa de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbmariana/ordenadorCSS-M5-Resilia/issues"
+  },
+  "homepage": "https://github.com/barbmariana/ordenadorCSS-M5-Resilia#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
