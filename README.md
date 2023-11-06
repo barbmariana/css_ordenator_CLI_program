@@ -1,4 +1,4 @@
-# Ordenando o CSS - Facilitando o dia a dia - Resilia M5 individual
+# CSS organizer - CLI app
 Criando um ordenador de CSS no node.js para linha de comando. 
 
 ## Objetivo
