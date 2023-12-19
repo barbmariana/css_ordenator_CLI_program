@@ -1,11 +1,11 @@
 # CSS organizer - CLI app
-Criando um ordenador de CSS no node.js para linha de comando. 
+CSS order CLI app to use in the command line. Developed with node.js
 
-## Objetivo
-Criar uma ferramenta para o terminal onde o desenvolvedor irá digitar a propriedade e o código irá devolver uma lista ordenada entre A-Z.
+## Goal
+To create a terminal tool where the developer can write the css properties and the program will return as order list. 
 
-## Biblioteca
-Para facilitar a criação do projeto, foi utilizada a biblioteca prompt-sync
+## Technologies Used
+Node.js and prompt-sync library
 
-## Testando
+## Testing
 <img src="imagemTeste.png"/>
